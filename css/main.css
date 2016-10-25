@@ -18,6 +18,11 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  color: #fff;
+  font-weight: bold;
+}
+
 .masthead {
   text-align: center;
   background-color: #423ca3;
@@ -25,11 +30,6 @@ html {
 
 .logo {
   text-align: center;
-}
-
-h1 {
-  color: #fff;
-  font-weight: bold;
 }
 
 nav a {
